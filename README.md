@@ -1,7 +1,7 @@
 # Linear Regression with Boston Housing Data-set
 
 # Linear Regression 
-Regression involves using one or more variables, labelled independent variables, to predict the values of another variable, the dependent variable. Variables that are strongly correlated with the dependent variable will be used for predicting that variable.
+In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables. The case of one explanatory variable is called simple linear regression. For more than one explanatory variable, the process is called multiple linear regression. 
 
 
 # Boston Housing Dataset
